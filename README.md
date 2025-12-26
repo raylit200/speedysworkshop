@@ -4,6 +4,8 @@ A small personal site for documenting mods, projects and progress.
 
 ## About
 
+Speedy's Workshop documents personal modding projects and progress logs. This repo contains the static site (index.html + styles.css) used for publishing notes, screenshots, and short walkthroughs.
+
 This repository hosts a simple GitHub Pages site for Speedy's Workshop:
 - Single-page site: `index.html`
 - Styling: `styles.css`
